@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-A front-end developer.
+I'm Alisa, a front-end developer.
 
 [My blog](https://juejin.cn/user/4476867079324382)
